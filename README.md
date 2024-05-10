@@ -1,17 +1,4 @@
 
-
-<style>
-  .esa-extended {
-     font-size: 12px;
-    /*vertical-align: top;*/
-  }
-  .esa-extended:before {
-    content: '[';    
-  }
-  .esa-extended:after {
-    content: ']';    
-  }
-</style>
 Here I  will introduce and explain the basic notation and special functions of markdown editor. 
 
 # Basic Markdown notation
